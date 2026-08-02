@@ -2,3 +2,6 @@
 Dynamic web page and Application for BAKHULISE 2025
 git clone https://github.com/yourusername/bakhulise2025-webapp.git
 cd bakhulise2025-webapp
+git add .
+git commit -m "Initial setup for BAKHULISE webapp"
+git push origin main
